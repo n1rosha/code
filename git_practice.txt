@@ -1,2 +1,4 @@
 Practice calss of git 
-Learning sessions
+Learning sessions 
+this is my first session of git_practice class
+

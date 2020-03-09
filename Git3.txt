@@ -1,0 +1,2 @@
+Aother file is craeted in the rebasing this name is Git3
+This is the practice class of merging and rebasing
